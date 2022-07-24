@@ -1,16 +1,16 @@
 const epicMix = [
   "The Wrong Direction",
-  "Unstoppable - Sia",
+  "Unstoppable",
   "Coat of many colors",
-  "Holes - Passenger",
-  "Set Fire to the Rain - Adele",
+  "Holes",
+  "Set Fire to the Rain",
   "Guantanamera",
   "Wavin Flag",
   "Jolene",
   "On top of the World",
-  "Waka Waka - Shakira",
+  "Waka Waka",
   "Time of our Lives",
-  "Despacito - Luis Fonsi"
+  "Despacito"
 ];
 
 
